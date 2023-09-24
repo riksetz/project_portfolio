@@ -8,15 +8,15 @@ Created: Saturday, 09/09/2023.
 Last update: Sunday, 24/09/2023.
 
 ### Python Projects
-	CollatzCojecture <br>
-	ForgottenIsland <br>
-	LifeInWeeks <br>
+	CollatzCojecture 
+	ForgottenIsland 
+	LifeInWeeks 
 ### Java
-	TBC <br>
+	TBC 
 ### C++
-	TBC <br>
+	TBC 
 ### Cloud Projects
-	TBC <br>
+	TBC 
 	
 
 
