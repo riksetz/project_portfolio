@@ -1,10 +1,10 @@
-## Public Portfolio
+## Project Portfolio
 
 Author: Raquelle Setz <br>
 Software Engineering <br>
 2023 <br>
 
-Created: Saturday, 09/09/2023.
+Created: Saturday, 09/09/2023. <br>
 Last update: Sunday, 24/09/2023.
 
 ### Python Projects
